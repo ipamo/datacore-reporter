@@ -1,1 +1,1 @@
-reporter-utils
+zut[commons] >= 0.9
